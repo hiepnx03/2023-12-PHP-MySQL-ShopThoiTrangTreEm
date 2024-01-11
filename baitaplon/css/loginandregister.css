@@ -1,0 +1,85 @@
+/* CSS cho trang đăng nhập và đăng ký */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+
+}
+
+header h1 {
+    margin: 0;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 10px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #fff;
+}
+
+main {
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    width: 80%;
+    max-width: 400px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+main h2 {
+    text-align: center;
+    margin-top: 0;
+}
+
+form {
+    text-align: center;
+}
+
+form label {
+    display: block;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+form button {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+form button:hover {
+    background-color: #555;
+}
+
+footer {
+    text-align: center;
+    background-color: #333;
+    color: #fff;
+    padding: 10px 0;
+}
+
+/* Đổi màu liên kết "Liên hệ" và "Đăng ký" thành màu xanh dương */
+.footer-center a {
+    color: #1877f2;
+}
+
+/* Đổi màu liên kết "Đăng nhập" và "Đăng ký" trong header thành màu xanh dương */
+nav ul li a {
+    color: #1877f2;
+}
