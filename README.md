@@ -9,7 +9,7 @@
 - Năm 3 học kì 1
 - Môn Lập trình PHP căn bản
 - được thực hiện vào 26/12/2023
-- bài tập lớn này tôi thực hiện trong vòng 1 tháng , tôi học HTML , CSS khá gấp , tôi sử dụng ChatGPT hơi nhiều :((
+- bài tập lớn này tôi thực hiện trong vòng 1 tháng , tôi học HTML , CSS khá gấp , tôi sử dụng ChatGPT nhiều 
 # chưa hoàn hiện được
 - chưa thực hiện được mã hóa mật khẩu
 - vẫn còn lỗi ở mục thanh toán của người dùng
